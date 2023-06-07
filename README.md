@@ -10,3 +10,4 @@
 | Dice CTF 2023 | Baby Solana             | Solana    | Anchor       | Erroneous Rust code leading to constraint bypassing & Unchecked negative signed integers |
 | Dice CTF 2023 | Otterworld              | Solana    | Anchor       | Creating an account whose Pubkey starts with "osec" |
 | LACTF 2023    | breakup                 | Ethereum  | Solidity     | Missing checks & `public` attribute on the `burn` method allowing any user to burn any NFT |
+| Angstrom 2023 | Sailor                  | Solana    | Vanilla Rust | Account confusion between `SailorUnion` and `Registration` |
