@@ -11,3 +11,4 @@
 | Dice CTF 2023 | Otterworld              | Solana    | Anchor       | Creating an account whose Pubkey starts with "osec" |
 | LACTF 2023    | breakup                 | Ethereum  | Solidity     | Missing checks & `public` attribute on the `burn` method allowing any user to burn any NFT |
 | Angstrom 2023 | Sailor                  | Solana    | Vanilla Rust | Account confusion between `SailorUnion` and `Registration` |
+| Sekai CTF 2023 | The Bidding            | Solana    | Anchor       | Creating a fake account whose PDA collides with another account to be initialized by other user, locking them out of the bidding process |
